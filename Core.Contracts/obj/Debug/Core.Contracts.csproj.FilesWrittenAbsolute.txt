@@ -1,0 +1,5 @@
+/Users/2ronto/GitHub/GitHub Projects/Core/Core.Contracts/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/Users/2ronto/GitHub/GitHub Projects/Core/Core.Contracts/bin/Debug/Core.Contracts.dll.mdb
+/Users/2ronto/GitHub/GitHub Projects/Core/Core.Contracts/bin/Debug/Core.Contracts.dll
+/Users/2ronto/GitHub/GitHub Projects/Core/Core.Contracts/obj/Debug/Core.Contracts.dll
+/Users/2ronto/GitHub/GitHub Projects/Core/Core.Contracts/obj/Debug/Core.Contracts.dll.mdb

@@ -1,0 +1,4 @@
+Y:\GitHub\GitHub Projects\Core\Core.Utils\bin\Debug\Core.Utils.dll
+Y:\GitHub\GitHub Projects\Core\Core.Utils\bin\Debug\Core.Utils.pdb
+Y:\GitHub\GitHub Projects\Core\Core.Utils\obj\Debug\Core.Utils.dll
+Y:\GitHub\GitHub Projects\Core\Core.Utils\obj\Debug\Core.Utils.pdb
