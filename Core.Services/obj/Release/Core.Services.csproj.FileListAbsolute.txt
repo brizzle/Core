@@ -1,0 +1,5 @@
+Y:\GitHub\GitHub Projects\Core\Core.Services\bin\Release\Core.Services.dll
+Y:\GitHub\GitHub Projects\Core\Core.Services\bin\Release\Core.Services.pdb
+Y:\GitHub\GitHub Projects\Core\Core.Services\obj\Release\Core.Services.csprojResolveAssemblyReference.cache
+Y:\GitHub\GitHub Projects\Core\Core.Services\obj\Release\Core.Services.dll
+Y:\GitHub\GitHub Projects\Core\Core.Services\obj\Release\Core.Services.pdb

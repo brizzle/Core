@@ -1,0 +1,5 @@
+Y:\GitHub\GitHub Projects\Core\Core.Utils\bin\Release\Core.Utils.dll
+Y:\GitHub\GitHub Projects\Core\Core.Utils\bin\Release\Core.Utils.pdb
+Y:\GitHub\GitHub Projects\Core\Core.Utils\obj\Release\Core.Utils.csprojResolveAssemblyReference.cache
+Y:\GitHub\GitHub Projects\Core\Core.Utils\obj\Release\Core.Utils.dll
+Y:\GitHub\GitHub Projects\Core\Core.Utils\obj\Release\Core.Utils.pdb

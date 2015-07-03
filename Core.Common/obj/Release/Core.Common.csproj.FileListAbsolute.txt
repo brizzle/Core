@@ -1,0 +1,7 @@
+Y:\GitHub\GitHub Projects\Core\Core.Common\bin\Release\Core.Common.dll
+Y:\GitHub\GitHub Projects\Core\Core.Common\bin\Release\Core.Common.pdb
+Y:\GitHub\GitHub Projects\Core\Core.Common\bin\Release\Core.Contracts.dll
+Y:\GitHub\GitHub Projects\Core\Core.Common\bin\Release\Core.Contracts.pdb
+Y:\GitHub\GitHub Projects\Core\Core.Common\obj\Release\Core.Common.csprojResolveAssemblyReference.cache
+Y:\GitHub\GitHub Projects\Core\Core.Common\obj\Release\Core.Common.dll
+Y:\GitHub\GitHub Projects\Core\Core.Common\obj\Release\Core.Common.pdb

@@ -1,0 +1,4 @@
+Y:\GitHub\GitHub Projects\Core\Core.Contracts\bin\Release\Core.Contracts.dll
+Y:\GitHub\GitHub Projects\Core\Core.Contracts\bin\Release\Core.Contracts.pdb
+Y:\GitHub\GitHub Projects\Core\Core.Contracts\obj\Release\Core.Contracts.dll
+Y:\GitHub\GitHub Projects\Core\Core.Contracts\obj\Release\Core.Contracts.pdb
