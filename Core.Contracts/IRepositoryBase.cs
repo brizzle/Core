@@ -15,7 +15,7 @@ namespace Core.Contracts
     /// </summary>
     /// <typeparam name="TEntity"></typeparam>
     public interface IRepositoryBase<TEntity> : IRepositoryBase
-        where TEntity : class, new()
+        where TEntity : IEntityBase, new()
     {
         /// <summary>
         /// Adds the entity.

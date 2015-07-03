@@ -2,3 +2,4 @@ Y:\GitHub\GitHub Projects\Core\Core.Contracts\bin\Debug\Core.Contracts.dll
 Y:\GitHub\GitHub Projects\Core\Core.Contracts\bin\Debug\Core.Contracts.pdb
 Y:\GitHub\GitHub Projects\Core\Core.Contracts\obj\Debug\Core.Contracts.dll
 Y:\GitHub\GitHub Projects\Core\Core.Contracts\obj\Debug\Core.Contracts.pdb
+Y:\GitHub\GitHub Projects\Core\Core.Contracts\obj\Debug\Core.Contracts.csprojResolveAssemblyReference.cache
