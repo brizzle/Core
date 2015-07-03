@@ -14,7 +14,7 @@ namespace Core.Services
         {
             get
             {
-                return Path.Combine("Data Source=" + FilePath, FileName + ".sqlie");
+                return Path.Combine("Data Source=" + FilePath, FileName + ".sqlite");
             }
         }
 

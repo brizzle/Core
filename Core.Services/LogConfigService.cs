@@ -1,4 +1,6 @@
-﻿namespace Core.Services
+﻿using System.IO;
+
+namespace Core.Services
 {
     public class LogConfigService
     {
@@ -6,6 +8,14 @@
         {
             FileName = file;
             FilePath = path;
+        }
+        
+        public string ConnectionString
+        {
+            get
+            {
+                return Path.Combine(FilePath, FileName + ".log");
+            }
         }
 
         public string FileName { get; private set; }
